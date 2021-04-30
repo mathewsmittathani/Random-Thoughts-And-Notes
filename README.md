@@ -1,6 +1,6 @@
 # my_notes
 
-A new Flutter project.
+Note App for Android.
 
 ## Getting Started
 
